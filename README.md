@@ -1,3 +1,5 @@
+Project Purpose:
+
 Develop a Project in Java for Employee database with Employee table ( Empno,EmpName,DoJ,
 Gender, Bsalary) to generate the modules namely EmpAdd, EmpUpdate, EmpDelete and
 EmpDisplay along with Main module performing the operations of adding record, updating the
