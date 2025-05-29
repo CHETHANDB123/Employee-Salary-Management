@@ -1,4 +1,4 @@
-Employee Salary Management
+Employee Salary Management:
 
 Develop a Project in Java for Employee database with Employee table ( Empno,EmpName,DoJ,
 Gender, Bsalary) to generate the modules namely EmpAdd, EmpUpdate, EmpDelete and
@@ -8,9 +8,12 @@ Dynamic web project to perform these operations with HTML and JSP along with JDB
 connectivity with MySQL as backend. Define complete structure of the project with modules and
 packages.
 
+
 Add Employee o/p-https://github.com/CHETHANDB123/Employee-Salary-Management/blob/main/output/Screenshot%202025-05-30%20014524.png
 
+
 Update Employee o/p-https://github.com/CHETHANDB123/Employee-Salary-Management/blob/main/output/Screenshot%202025-05-30%20014311.png
+
 
 Display Employee o/p-https://github.com/CHETHANDB123/Employee-Salary-Management/blob/main/output/Screenshot%202025-05-30%20013957.png
 
